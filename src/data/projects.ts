@@ -27,5 +27,14 @@ export const projects: Project[] = [
     "github": "https://github.com/yourusername/project2",
     "demo": "https://project2-demo.vercel.app"
   },
+  {
+    "id": 3,
+    "title": "Water Level Monitoring System",
+    "description": "A minimalist portfolio built with Framer Motion animations.",
+    "image": "/images/project2.png",
+    "tags": ["Next.js", "Framer Motion"],
+    "github": "https://github.com/yourusername/project2",
+    "demo": "https://project2-demo.vercel.app"
+  },
   
 ];
